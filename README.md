@@ -1,5 +1,3 @@
-# Coursera_Capstone
-Battle of the Climbs
-Coursera Capstone Project
+# Battle of the Climbs
 
-This git repository is for my Coursera Capstone Project
+This git repository is for my Battle of the Climbs Coursera Capstone Project
